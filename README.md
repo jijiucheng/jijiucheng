@@ -10,7 +10,8 @@
 ### 曾梦想仗剑天涯，后来工作忙没去！ 👋
 
 - 🔭 I’m currently working on [jijiucheng.github.io](https://jijiucheng.github.io/)
-- 🌱 I’m currently learning iOS
+- 🌱 I’m currently learning **iOS**
+- 😍 I like Anime and League of Legends
 
 
 <!--
