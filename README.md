@@ -1,6 +1,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
+<image align="left" src="曾梦想仗剑天涯，后来工作忙没去.jpeg" />
+<image align="right" src="遥望远方.jpg" />
+
 ### 曾梦想仗剑天涯，后来工作忙没去！ 👋
 
 <!--
