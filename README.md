@@ -9,8 +9,9 @@
 
 ### 曾梦想仗剑天涯，后来工作忙没去！ 👋
 
-- 🔭 I’m currently working on [jijiucheng.github.io](https://jijiucheng.github.io/)
+- 🔭 I’m currently working on my blog [jijiucheng.github.io](https://jijiucheng.github.io/)
 - 🌱 I’m currently learning **iOS**
+- 📫 How to reach me: jijiucheng999@gmail.com
 - 😍 I like Anime and League of Legends
 
 
