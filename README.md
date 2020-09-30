@@ -1,9 +1,9 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 <p>
-  <image src="曾梦想仗剑天涯，后来工作忙没去.jpeg" width="300px" height="300px" />
-  <image src="遥望远方.jpg" width="300px" height="300px" /></p>
+  <image align="left" src="曾梦想仗剑天涯，后来工作忙没去.jpeg" width="300px" height="300px" />
+  <image align="right" src="遥望远方.jpg" width="300px" height="300px" /></p>
 
 
 ### 曾梦想仗剑天涯，后来工作忙没去！ 👋
