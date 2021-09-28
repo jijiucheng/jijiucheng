@@ -1,7 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=blueberry&show_icons=true" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=blueberry&show_icons=true)
-
 <!--
 参考链接：
 https://github.com/anuraghazra/github-readme-stats
