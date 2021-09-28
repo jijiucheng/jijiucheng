@@ -1,8 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=dark&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=blueberry&show_icons=true" />
 
 <!--
 参考链接：
 https://github.com/anuraghazra/github-readme-stats
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=blueberry&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 -->
 <!--
 <image align="left" src="曾梦想仗剑天涯，后来工作忙没去.jpeg" width="300px" height="300px" />
