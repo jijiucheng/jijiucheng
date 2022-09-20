@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=blueberry&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=blueberry&show_icons=true" />
 
 <!--
 参考链接：
