@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=blueberry&show_icons=true&hide_title=true&locale=cn" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jijiucheng&theme=blueberry&show_icons=true&hide_title=false&locale=cn" />
 
 <!--
 参考链接：
@@ -10,7 +10,6 @@ https://github.com/anuraghazra/github-readme-stats
 <image align="left" src="曾梦想仗剑天涯，后来工作忙没去.jpeg" width="300px" height="300px" />
 <image align="right" src="遥望远方.jpg" width="300px" height="300px" />
 -->
-
 
 ### 曾梦想仗剑天涯，后来工作忙没去！ 👋
 
